@@ -1,4 +1,6 @@
-## Overview
+## xChanges Rates
+
+### Overview
 
 <img align="right" width="192px" src="./images/ic_main.png" title="logo" />
 
