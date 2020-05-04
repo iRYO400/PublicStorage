@@ -10,10 +10,15 @@ Monitor <b>all available</b> crypto currencies from <b>over 90 exchangers</b> ac
 
 <b>Features:</b>
     ★ Supports all existing crypto currencies - Bitcoin, Ethereum, Litecoin, Ripple, etc;
+    
     ★ Over 90 exchangers across the globe;
+    
     ★ Stylish chart view;
+    
     ★ With filters  - 10 mis, 1 hour, 24 hours, 1 month or even 2 years;
+    
     ★ Notifications for saved crypto currencies also named as Snapshot (ETH/EUR, BTC/USD...);
+    
     ★ User-friendly interface and navigation;
 
 
