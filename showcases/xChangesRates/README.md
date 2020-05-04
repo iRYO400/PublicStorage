@@ -4,6 +4,20 @@
 
 Android application which helps you to get in touch with crypto currencies in real time.
 
+*Supports most of the crypto currencies, not only Bitcoin*
+
+Monitor <b>all available</b> crypto currencies from <b>over 90 exchangers</b> across the globe. Check currency last changes with filters - 10 mins, 1 hour, 12 hours, 1 week, 1 month, half a year, year or more, using awesome chart. Save interesting charts to <b>quick access</b>. And enable notification for most interesting ones.
+
+<b>Features:</b>
+★ Supports all existing crypto currencies - Bitcoin, Ethereum, Litecoin, Ripple, etc;
+★ Over 90 exchangers across the globe;
+★ Stylish chart view;
+★ With filters  - 10 mis, 1 hour, 24 hours, 1 month or even 2 years;
+★ Notifications for saved crypto currencies also named as Snapshot (ETH/EUR, BTC/USD...);
+★ User-friendly interface and navigation;
+
+
+
 
 <p align="center">
     <img src="./images/preview_1.gif" align="left" />
