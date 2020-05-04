@@ -1,11 +1,14 @@
 ## Overview
+
+<img align="right" width="192px" src="./images/ic_main.png" title="logo" />
+
 Android application which helps you to get in touch with crypto currencies in real time.
 
 
 <p align="center">
-    <img src="./preview_1.gif" align="left" />
-    <img src="./preview_2.gif" align="center" />
-    <img src="./preview_3.gif" align="right" />
+    <img src="./images/preview_1.gif" align="left" />
+    <img src="./images/preview_2.gif" align="center" />
+    <img src="./images/preview_3.gif" align="right" />
 </p>
 
 <a href='https://play.google.com/store/apps/details?id=workshop.akbolatss.tools.touchcounter&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
